@@ -1,0 +1,16 @@
+/* 
+    Document   : no_default
+    Created on : Dec 8, 2012, 7:29:54 AM
+    Author     : webrock
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+div .netoffer_wrapper{
+    width:400px;
+    text-align:center;
+}
